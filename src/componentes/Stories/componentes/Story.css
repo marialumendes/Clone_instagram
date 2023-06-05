@@ -1,0 +1,29 @@
+.Story{
+    display:flex;
+    flex-direction: column;
+    margin: 10px;
+    transition: all 0.3s;
+    height: 60px;
+    width: 60px;
+    border: 2px solid #ffffff;
+    align-items: center;
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, #c82d8e, #f99d4c) border-box;
+	border-radius: 100%;
+	border: 2px solid transparent;
+}
+
+.Story:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.imgStory img{
+    width: 56px;
+    border-radius: 100%;
+    padding: 2px;
+}
+
+.Story .nomeStory {
+    text-align: center;
+    font-size: 12px;
+}

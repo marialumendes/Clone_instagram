@@ -1,0 +1,35 @@
+.LadoDireito {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 170px 0px 0px;
+    width: 320px;
+}
+
+/* Sugeridos */
+.Sugeridos {
+    margin: 40px 4px 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: rgb(143, 143, 143);
+    font-size: 13px;
+}
+
+.SugestaoPessoal {
+    font-weight: 500;
+    margin-left: 41px;
+    justify-content: space-between;
+
+}
+
+.VerTudo {
+    font-size: 12px;
+    cursor: pointer;
+    justify-content: space-between;
+    color: black;
+    font-weight: bold;
+}
+
+.VerTudo:hover {
+    color: rgb(61, 61, 61);
+}

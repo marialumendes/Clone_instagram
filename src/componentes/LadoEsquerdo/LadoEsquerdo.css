@@ -1,0 +1,78 @@
+.LadoEsquerdo {
+    display: flex;
+    flex-direction: column;
+    float: left;
+    margin: 0 10px 10px 10px;
+}
+
+.logo img{
+    width: 255px;
+}
+
+.menu-principal {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 10px 0px 0px;
+    
+}
+
+/* Logotipo */
+.logo img {
+    cursor: pointer;
+}
+
+/* Texto */
+.menu-principal span {
+    font-size: 16px;
+    margin: 5px 0;
+    display:flex;
+    align-items: center;
+}
+
+/* Texto 'Menu' */
+.menu {
+    font-weight: bold;
+}
+
+/* Itens do Menu */
+.ItemMenu {
+    height: 50px;
+}
+
+.ItemMenu:hover {
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: rgb(238, 238, 238);
+}
+
+/* Icones */
+.icone {
+    color: rgb(0, 0, 0);
+}
+
+.icone svg {
+    width: 24px;
+    height: 24px;
+    margin: 8px 15px;
+}
+
+/* Foto do perfil */
+.ItemPerfil img{
+    height: 31px;
+    width: 31px;
+    border-radius: 100%;
+    margin: 8px 15px;
+}
+
+/* Item Perfil */
+.ItemPerfil {
+    height: 45px;
+    border-radius: 5px;
+    margin: 0px;
+}
+
+.ItemPerfil:hover {
+    cursor: pointer;
+    transition: 0.3s;
+    background-color: rgb(238, 238, 238);
+}

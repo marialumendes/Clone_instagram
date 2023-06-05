@@ -1,0 +1,19 @@
+.Stories{
+    /*cursor: pointer;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    border:  1px solid #dadada;
+    border-radius: 20px;
+    height: 130px;
+    margin: 20px 0px 0px -50px;
+*/
+background: #ffffff;
+border: 1px solid #dadada;
+border-radius: 20px;
+height: 120px;
+margin: 35px 0;
+display: flex;
+
+}
+

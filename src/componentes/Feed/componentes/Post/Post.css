@@ -1,0 +1,190 @@
+/* Definições gerais */
+.Post {
+    background: #fefefe;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    width: 468px;
+    min-height: 665px;
+    margin: 30px 0 0 0;
+}
+
+/* Imagem do Post */
+.ConteudoPost {
+    background: #cacaca;
+    width: 468px;
+    height: 468px;
+}
+
+/* Barra superior */
+.BarraSuperior {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10px;
+    margin: 0px 8px 0px 0px;
+}
+
+.InformacaoPost {
+    display: flex;
+    align-items: center;
+}
+
+.NomePerfilAutor {
+    cursor: pointer;
+    font-weight: 500;
+}
+
+/* Imagem de Perfil do Autor */
+.ImagemPerfilAutor {
+    background: #969696;
+    border-radius: 20px;
+    height: 35px;
+    width: 35px;
+    margin: 0 8px 0 8px;
+    cursor: pointer;
+}
+
+.ImagemPerfilAutor img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+/* Icone da barra superior */
+.iconePontinhos {
+    font-size: 20px;
+}
+
+.iconePontinhos:hover {
+    cursor: pointer;
+    color: #777777;
+}
+
+/* Reações ao post */
+.ContainerReacoes {
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 5px;
+}
+
+.ladoEsquerdo {
+    display: flex;
+}
+
+.ladoDireito {
+    display: flex;
+}
+
+/* Icones de reação ao post */
+.iconeCoracao {
+    font-size: 24px;
+    margin: 1px 5px;
+}
+
+.iconeCoracao svg:hover {
+    cursor: pointer;
+    color: #777777;
+}
+
+.iconeCoracao svg:active {
+    fill: #ff3040;
+    color: #ff3040;
+}
+
+.iconeReacao {
+    font-size: 24px;
+    margin: 0px 5px;
+}
+
+.iconeReacao:hover {
+    cursor: pointer;
+    color: #777777;
+}
+
+/* Curtidas */
+.Curtidas {
+    font-weight: 500;
+    margin: 5px 10px;
+}
+
+/* Descrição do Post */
+.DescricaoPost {
+    margin: 0px 10px;
+}
+
+.NomeAutor {
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.Hashtag {
+    color: #00376b;
+    cursor: pointer;
+}
+
+/* Comentarios */
+.Comentarios {
+    color: #969696;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* Tempo desde o post */
+.Tempo {
+    color: #969696;
+    font-size: 12px;
+    margin: 0px 10px;
+    padding-bottom: 10px;
+}
+
+/* Comentário */
+.Comentario {
+    margin: 0px 10px;
+    padding-bottom: 10px;
+    display: flex;
+    border-top: 1px solid rgb(218, 218, 218);
+}
+
+.AreaComentario{
+    padding: 15px 0;
+    display: flex;
+    align-items: center;
+    flex: 1;
+    gap: 16px
+    
+}
+.AreaComentario input{
+    font-size: 16px;
+    border: none;
+    outline: none;
+}
+
+.Comentario button{
+    color: #0095f6;
+    background-color: white;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.Comentario button:hover{
+    color: #00376b;
+}
+
+.IconeComentario {
+    font-size: 22px;
+}
+
+.IconeComentario:hover {
+    color: #969696;
+    cursor: pointer;
+}
+
+.Comentarios{
+    margin-top: 5px;
+}
+
+.NomeAutor{
+    font-weight: bold
+}

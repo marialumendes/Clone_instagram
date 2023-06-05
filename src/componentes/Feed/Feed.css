@@ -1,0 +1,40 @@
+.Feed {
+    padding-bottom: 30px;
+}
+
+.TudoCerto {
+    text-align: center;
+    margin: 50px 0px 20px 0px;
+    padding: 40px 0px;
+    border-top: #0095f6;
+    border-top: 1px solid rgb(218, 218, 218);
+    border-bottom: 1px solid rgb(218, 218, 218);
+}
+
+.TudoCerto img{
+    width: 90px;
+    height: 90px;
+}
+
+.TudoCertoH1 {
+    font-size: 20px;
+    margin: 3px;
+}
+
+.TudoCertoH2 {
+    color: #777777;
+    font-size: 14px;
+    margin: 3px;
+}
+
+.TudoCertoH3 {
+    color: #0095f6;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    margin: 3px;
+}
+
+.TudoCertoH3:hover {
+    color: #00376b
+}

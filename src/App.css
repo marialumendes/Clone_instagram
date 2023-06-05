@@ -1,0 +1,29 @@
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.LadoEsquerdo,
+.Centro,
+.LadoDireito {
+  height: 100vh;
+}
+
+.LadoEsquerdo {
+  background: #FFFFFF;
+  border-right: 1px solid #ccc;
+  width: 20vw;
+  float: left;
+  position: fixed;
+}
+
+.LadoDireito {
+  width: 15vw;
+  float: right;
+}
+
+.Centro {
+  color: #000;
+  margin-left: 31vw;
+}

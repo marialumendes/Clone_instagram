@@ -1,0 +1,40 @@
+.SugestaoPerfil {
+    margin: 5px 0px 0px 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.FotoPerfilSugestao img {
+    height: 36px;
+    width: 36px;
+    border-radius: 100%;
+    cursor: pointer;
+}
+
+.NickSugerido{
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.NomeSugerido {
+    margin-top: 2px;
+    font-size: 12px;
+    margin-left: 5px;
+    font-weight:lighter;
+}
+
+/* Botão de seguir*/
+.Seguir {
+    color: #0095f6;
+    background-color: white;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 12px;
+}
+
+.Seguir:hover {
+    color: #00376b;
+}
