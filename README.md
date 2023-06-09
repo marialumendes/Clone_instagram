@@ -8,6 +8,6 @@
 <div>A proposta desta atividade foi de fazer um clone do instagram usando react. Para torna-lo mais único, foi proposto a escolha de um tema e mostrar a motivação do personagem escolhido. O tema escolhido por mim, foi da série modern family.</div>
 
 <h3>Sobre o tema</h3>
-<p>Modern family é uma série que aborda o cotidiano de uma familia com uma narração oculta. Cada post aborda algo significativo para cada personagem, no feed temos um momento especial com um amigo, uma lembrança especial em família e um sonho a se realizar.</p>
+<p>Modern family é uma série de comédia que aborda o cotidiano de uma familia com uma narração oculta. Cada post aborda algo significativo para cada personagem, no feed temos um momento especial com um amigo, uma lembrança especial em família e um sonho a se realizar. O feed foi feito como se eu fizesse parte do universo da série, onde sigo os personagens principais da série, e como sugestão aparecem os personagens segundários.</p>
 
  
