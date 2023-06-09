@@ -10,6 +10,7 @@
 <h3>Sobre o tema</h3>
 <p>Modern family é uma série de comédia que aborda o cotidiano de uma familia com uma narração oculta. Cada post aborda algo significativo para cada personagem, no feed temos um momento especial com um amigo, uma lembrança especial em família e um sonho a se realizar. O feed foi feito como se eu fizesse parte do universo da série, onde sigo os personagens principais da série, e como sugestão aparecem os personagens segundários.</p>
 
-##
 
- 
+##
+![instagram (1)](https://github.com/MariaLuMendes/Clone_instagram/assets/102841560/a4947149-fad8-4de7-8f48-c4dfb9077817)
+
